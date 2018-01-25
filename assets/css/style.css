@@ -1,3 +1,10 @@
 .position_center{
   text-align: center;
 }
+html {
+  background: url(http://globalmedicalco.com/photos/globalmedicalco/20/99084.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
