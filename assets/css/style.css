@@ -10,17 +10,22 @@ html {
 }
 .header_bg{
   display: inline-block;
-  background-color: white;
+  background-color: #f4f5e8;
 }
 .spacing_1{
-  margin-top: 90px;
+  margin-top: 0px;
   margin-bottom: 50px;
 }
 .spacing_2{
   margin-top: 50px;
   margin-bottom: 50px;
 }
+.spacing_3{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 .font{
   font-size: 2em;
   font-family: sans-serif;
+  color: #232320;
 }
