@@ -9,6 +9,18 @@ html {
   background-size: cover;
 }
 .header_bg{
-  display: inline;
+  display: inline-block;
   background-color: white;
+}
+.spacing_1{
+  margin-top: 90px;
+  margin-bottom: 50px;
+}
+.spacing_2{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.font{
+  font-size: 2em;
+  font-family: sans-serif;
 }
