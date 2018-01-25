@@ -8,3 +8,7 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+.header_bg{
+  display: inline;
+  background-color: white;
+}
