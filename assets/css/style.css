@@ -25,12 +25,24 @@ html {
   margin-bottom: 20px;
 }
 .font{
-  font-size: 2em;
+  font-size: 2.3em;
   font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
   color: #232320;
 }
 .form_font{
-  font-size: .6em;
+  font-size: 1em;
   font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
   color: #232320;
+}
+.footer_font{
+  font-size: .9em;
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
+  color: #232320;
+  background-color: #f4f5e8;
+}
+.position_footer{
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
 }
